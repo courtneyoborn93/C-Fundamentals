@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CSharpFundamentals
+﻿namespace CSharpFundamentals
 {
     class Program
     {
@@ -9,5 +7,13 @@ namespace CSharpFundamentals
 
         }
     }
+
+    using System;
+using System.Collections.Generic;
+
+namespace CSharp1Exercises.ArraysAndLists
+    {
+    }
+
 }
 
