@@ -9,8 +9,5 @@ namespace CSharpFundamentals
             Console.WriteLine("Hello World!");
         }
     }
-    {
-    }
-
-
 }
+
